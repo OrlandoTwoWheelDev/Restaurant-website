@@ -22,3 +22,9 @@ a{
 h1, p{
   color: wheat;
 }
+
+section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
